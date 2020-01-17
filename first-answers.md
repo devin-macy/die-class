@@ -18,3 +18,19 @@ question 2:
 Everything up-to-date
 would not let me save the readme.md file and said it was differnet and allowed me to compare them. believe this is due to VS Code
 
+question 3: 
+* master
+
+question 4:
+* header
+  master
+
+question 5:
+die.h  first-answers.md  README.md  second-answers.md
+
+question 6:
+first-answers.md  README.md  second-answers.md
+
+question 7: 
+no
+
