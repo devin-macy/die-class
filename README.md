@@ -1,2 +1,2 @@
-# die-class
-Lab1 Die Class With Partner
+# The second Git Lab
+## Second team member: Julia Cygan
