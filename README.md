@@ -1,2 +1,2 @@
-# die-class
-Lab1 Die Class With Partner
+#Git Lab #2 
+## First team member: Devin Macy
