@@ -14,4 +14,18 @@ hint: its remote counterpart. Integrate the remote changes (e.g.
 hint: 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
-3.
+3. * master
+
+4. * master 
+implement
+
+5. -home-dmacy-2401-lab1-first-.txt	first-answers.md
+README.md				second-answers.md
+die.cc
+
+6. -home-dmacy-2401-lab1-first-.txt	first-answers.md
+README.md				second-answers.md
+
+7. No
+
+
